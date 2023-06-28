@@ -1,0 +1,38 @@
+Welcome to EHLLX GameMode v1.52 - the AG way
+This mode is being used for the Elite Half-Life League
+
+:: Commands ::
+# /unstuck  "Unstucks a player from solid object."
+# force_hltv "Sends spectators to hltv server"
+
+:: Features ::
+# Filecheck
+# Automatic Demo Recording
+# Cvar Checker
+# Clear Corpses 
+# Red/Blue/Clanmodel
+# One Deathshot & Mapend Screenshot
+# Model Exploits Prevention
+# Maximum FPS allowed: 144
+
+:: Settings ::
+# Time Limit 15
+Standard tdmx settings are used - which means:
+# Some weapon damages are slightly reduced
+# Headshot damage multiplier is x2 instead of x3
+# No wallgauss
+# No player respawn sound
+# No tripmines and hornets
+=====================
+# Force Respawn On
+# RPG Fix On
+# Gauss Fix On
+# 2 HLTVs allowed
+
+Keep track of your screenshots and demos saved on your hard drive by this mode.
+An Admin could ask you to upload them.
+
+Enjoy the competition! 
+
+For more info & feedback go to:
+www.half-life.pro

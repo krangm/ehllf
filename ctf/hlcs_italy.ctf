@@ -1,0 +1,21 @@
+item_flag_team1 -691 -1830 -175 0 90 0
+item_flag_team2 384 2463 64 0 90 0
+
+info_player_team1 -695 -2005 -200 0 90 0
+info_player_team1 -965 -1529 -112 0 270 0
+info_player_team1 -323 -112 -112 0 270 0
+info_player_team1 -1444 223 -120 0 0 0
+info_player_team1 176 -115 -112 0 270 0
+info_player_team1 -498 455 47 0 270 0
+info_player_team1 155 351 -112 0 0 0
+info_player_team1 1050 -124 -112 0 180 0
+
+info_player_team2 749 2341 39 0 180 0
+info_player_team2 960 2207 167 0 270 0
+info_player_team2 -321 2133 -112 0 270 0
+info_player_team2 -1022 1143 47 0 90 0
+info_player_team2 -704 745 47 0 270 0
+info_player_team2 -624 648 199 0 90 0
+info_player_team2 1006 767 -152 0 180 0
+info_player_team2 878 349 -112 0 180 0
+

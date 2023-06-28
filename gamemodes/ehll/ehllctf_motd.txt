@@ -1,0 +1,34 @@
+Welcome to EHLL CTF GameMode v1.52
+This mode is being used for the Elite Half-Life League
+
+:: Commands ::
+# /unstuck  "Unstucks a player from solid object."
+# force_hltv "Sends spectators to hltv server"
+
+:: Features ::
+# Filecheck
+# Automatic Demo Recording
+# Cvar Checker
+# Clear Corpses 
+# One Deathshot & Mapend Screenshot
+# Model Exploits Prevention
+# Maximum FPS allowed: 144
+
+:: Settings ::
+# Time Limit 25 Minutes
+# Wall Gauss Damage 50% Reduced (CTF Standard)
+# Gluon 35% Damage Reduced
+# Crowbar 20% Damage Increased 
+# Beegun 30% Damage Increased
+# Force Respawn On
+# RPG Fix On
+# Gauss Fix On
+# 2 HLTVs Allowed
+
+Keep track of your screenshots and demos saved on your hard drive by this mode.
+An Admin could ask you to upload them.
+
+Enjoy the competition! 
+
+For more info & feedback go to:
+www.half-life.pro

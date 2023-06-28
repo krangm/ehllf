@@ -1,0 +1,10 @@
+gfx/env/fullmoonbk.tga
+gfx/env/fullmoondn.tga
+gfx/env/fullmoonft.tga
+gfx/env/fullmoonlf.tga
+gfx/env/fullmoonrt.tga
+gfx/env/fullmoonup.tga
+maps/dabo2.res
+maps/dabo2.txt
+locs/dabo2.loc
+locs\dabo2.loc

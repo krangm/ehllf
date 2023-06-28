@@ -1,0 +1,16 @@
+agctf_bootcamp
+ctf_industrywest
+hlectf_stalkyard
+agctf_dabo
+ctf_arizona
+de_railroad
+agctf_daydream
+dm_dust
+agctf_ag_crossfire
+ctf_survivor
+hlectf_datacore
+hlectf_round_about
+agctf_eden
+agctf_echo
+hlcs_italy
+agctf_forsaken

@@ -1,0 +1,15 @@
+locs\agctf_eden.loc
+locs/agctf_eden.loc
+sound/ctf/blueflagreturned.wav
+sound/ctf/blueflagstolen.wav
+sound/ctf/blueleads.wav
+sound/ctf/bluescores.wav
+sound/ctf/enemyhaveflag.wav
+sound/ctf/redflagreturned.wav
+sound/ctf/redflagstolen.wav
+sound/ctf/redleads.wav
+sound/ctf/redscores.wav
+sound/ctf/suddendeath.wav
+sound/ctf/teamhaveflag.wav
+sound/ctf/teamsaretied.wav
+sound/ctf/youhaveflag.wav
