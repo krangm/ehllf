@@ -25,7 +25,6 @@ sound/vox/buzwarn.wav
 sprites/de_arizona_glow.spr
 sprites/Xsmoke1.spr
 locs/ctf_arizona.loc
-locs\ctf_arizona.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav
 sound/ctf/blueleads.wav

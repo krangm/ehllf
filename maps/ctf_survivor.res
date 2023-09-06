@@ -1,7 +1,6 @@
 zeditor.wad
 
 locs/ctf_survivor.loc
-locs\ctf_survivor.loc
 
 gfx/env/snowlake_up.tga
 gfx/env/snowlake_dn.tga

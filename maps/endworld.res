@@ -3,7 +3,6 @@ maps/endworld.bsp
 maps/endworld_detail.txt
 models/pi_tree1.mdl
 locs/endworld.loc
-locs\endworld.loc
 gfx/detail/endworld/afloor1_4.tga
 gfx/detail/endworld/altar1_7.tga
 gfx/detail/endworld/ceiling5.tga

@@ -1,4 +1,3 @@
-locs\de_railroad.loc
 locs/de_railroad.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav

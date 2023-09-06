@@ -74,7 +74,6 @@ models/industrywest/gins_transformer.mdl
 sprites/industrywest/iw_tree4a.spr
 sprites/industrywest/iw_tree4b.spr
 locs/ctf_industrywest.loc
-locs\ctf_industrywest.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav
 sound/ctf/blueleads.wav

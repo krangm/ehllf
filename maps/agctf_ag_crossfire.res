@@ -1,4 +1,3 @@
-locs\agctf_ag_crossfire.loc
 locs/agctf_ag_crossfire.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav

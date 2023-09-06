@@ -5,7 +5,6 @@ gfx/env/destlf.tga
 gfx/env/destrt.tga
 gfx/env/destup.tga
 locs/dm_dust.loc
-locs\dm_dust.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav
 sound/ctf/blueleads.wav

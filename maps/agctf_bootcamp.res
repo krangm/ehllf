@@ -1,4 +1,3 @@
-locs\agctf_bootcamp.loc
 locs/agctf_bootcamp.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav

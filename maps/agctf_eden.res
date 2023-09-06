@@ -1,4 +1,3 @@
-locs\agctf_eden.loc
 locs/agctf_eden.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav

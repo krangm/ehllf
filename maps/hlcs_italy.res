@@ -17,7 +17,6 @@ models/winebottle.mdl
 models/chick.mdl
 models/feather.mdl
 locs/hlcs_italy.loc
-locs\hlcs_italy.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav
 sound/ctf/blueleads.wav

@@ -5,7 +5,6 @@ gfx/env/fullmoonrt.tga
 gfx/env/fullmoonft.tga
 gfx/env/fullmoonbk.tga
 locs/agctf_dabo.loc
-locs\agctf_dabo.loc
 sound/ctf/blueflagreturned.wav
 sound/ctf/blueflagstolen.wav
 sound/ctf/blueleads.wav
